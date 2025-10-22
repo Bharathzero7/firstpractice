@@ -1,0 +1,13 @@
+ # Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+
+# Node.js example
+node_modules/
+
