@@ -1,1 +1,1 @@
-this line is from master branch and dev branch 
+this line is from both master branch and dev branch 
