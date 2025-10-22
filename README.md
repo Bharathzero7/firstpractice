@@ -1,1 +1,1 @@
- first git sample project 
+ dev functionality 
